@@ -1,0 +1,7 @@
+{
+    "name": "json-sever",
+    "version": "0.0.1",
+    "dependencies": {
+        "json-server": "0.12.1"
+    }
+}

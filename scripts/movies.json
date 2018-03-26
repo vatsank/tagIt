@@ -1,0 +1,10 @@
+{
+
+    "movies": [
+
+        { "id": 101, "movieName": "Kaala", "leadStar": "Rajini" },
+        { "id": 102, "movieName": "Vivegam", "leadStar": "Ajith" },
+        { "id": 103, "movieName": "Gilli", "leadStar": "Vijay" }
+
+    ]
+}
